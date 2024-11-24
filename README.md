@@ -1,4 +1,4 @@
-# Hi there, Al-Muhannad Al-Duaylij! 👋
+# Hi there, I'm Al-Muhannad Al-Duaylij! 👋
 
 I have a deep interest in machine learning and enjoy finding creative solutions to challenges through data science.  
 I'm also exploring the world of React and React Native development, and I’m always eager to learn and grow.
@@ -15,7 +15,7 @@ I’m actively improving my skills in:
 
 ## 🌍 Let’s connect and create something amazing together!
 - [Email](mailto:almohandfawzi@gmail.com)  
-- [LinkedIn]([#](https://www.linkedin.com/in/almuhannad-alduaylij-6312aa226/))  
+- [LinkedIn](https://www.linkedin.com/in/almuhannad-alduaylij-6312aa226/)  
 
 
 
